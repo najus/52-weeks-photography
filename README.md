@@ -1,12 +1,9 @@
 # 52-weeks-photography
-52 weeks of photography assignments for beginners.
+52 weeks of photography assignments for photographers.
 
 ## The Weekly Plan
 
 To take picture every week based on the challenge and share with the community.
-
-# Reference
-- [ ] [52 Week Photography Challenge](https://dogwood.photography/52weekchallenge2017.html)
 
 # Challenges
 
@@ -65,3 +62,5 @@ To take picture every week based on the challenge and share with the community.
 |           | Week 51 | Artistic: Fear                |   |
 |           | Week 52 | Story: Your Story             |   |
 
+## Reference
+- [ ] [52 Week Photography Challenge](https://dogwood.photography/52weekchallenge2017.html) - Dogwood Photography 52 week challenge
