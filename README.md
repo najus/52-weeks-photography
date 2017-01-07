@@ -9,7 +9,7 @@ To take picture every week based on the challenge and share with the community.
 
 |Status     | Week    | Challenges                    | Link to Picture |
 | ----      |:------- |:-----------------------------:|  --------------: |
-| &#10004;  | Week 1  | Story: Rule of Thirds         | https://dogwood.photography/52weekchallenge2017.html |
+| &#10004;  | Week 1  | Story: Rule of Thirds         | https://flic.kr/p/PMfnCD |
 |           | Week 2  | Technical: SOOC               |   |
 |           | Week 3  | Artistic: Land                |   |
 |           | Week 4  | Story: Mirror                 |   |
